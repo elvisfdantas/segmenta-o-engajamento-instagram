@@ -21,7 +21,7 @@ Objetivos detalhados:
  - Tratar colunas vazias que não possuio tag
  - Apresentar uma estrutura de projeto de Ciência de Dados, utilizando notebooks, cripts, relatórios e repositório no GitHub.
 
-   ### Vericando o engajamento de postagem de campanhas com produtos que possuen pessoas ou não nas fotos dos produtos e entender quais postagens geram mais curtidas e comentários.
+   ### Vericando o engajamento de postagem de campanhas com produtos que possuen pessoas ou não. Entender quais  campanhas geram mais curtidas e comentários.
    ![Postagens_com_ou_sem_pessoas](plotbar001.png)
 
    ### Vericando o engajamento de postagem, agrupando por Pessoas e Campanhas e entender o  engajamento que gera mais curtidas e comentários por tipos de postagens.
