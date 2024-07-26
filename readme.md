@@ -11,7 +11,7 @@ Projeto de segmentação de clientes de uma base de dados do instagram utilizado
 ## Objetivos
 
 
-O objetivo é seguimentar a base de clientes do instagram e entender melhor suas caracteristicas de engajamento e ser mais acertivo nas publicações.
+O objetivo é segmentar a base de clientes do instagram e entender melhor suas caracteristicas de engajamento e ser mais acertivo nas publicações.
 
 Objetivos detalhados:
 
