@@ -12,7 +12,7 @@ O objetivo é seguimentar a base de clientes do instagram e entender melhor suas
 
 Objetivos detalhados:
 
- - Analise ecploratoria utilizando o Pandas.
+ - Analise exploratoria utilizando o Pandas.
  - Saber qual o tipo de conteúdo que mais engaja no Instagram da empresa(curtidas comentários e interações)
  - Ignorar a colula de visualizaçoes e focar nas postagens com comentários, com mais e menos curtidas.
  - Tratar colunas vazias que não possuio tag
