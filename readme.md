@@ -32,6 +32,6 @@ Objetivos detalhados:
    
 # Conclusões
 
-## - Em uma análise inicial, percebemos que postagens que incluia pessoas engajam muito mais que aquelas que não possui ninguém
-## - Postagens em épocas de campanha também possuem um melhor engajamento
+## - Percebemos que postagens que incluia pessoas nas fotos de produtos engajam muito mais que aquelas que não possui.
+## - Postagens em épocas de campanha também possuem um melhor engajamento e pode gerar um faturamento consideravel.
 
