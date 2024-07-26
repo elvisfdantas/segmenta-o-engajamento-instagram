@@ -18,10 +18,14 @@ Objetivos detalhados:
  - Tratar colunas vazias que não possuio tag
  - Apresentar uma estrutura de projeto de Ciência de Dados, utilizando notebooks, cripts, relatórios e repositório no GitHub.
 
-   ### Vericando o engajamento de postagem com pessoas camnhanhas com ou sem pessoas
+   ### Vericando o engajamento de postagem de campanhas com produtos que possuen pessoas  ou não nas fotos.
    ![Postagens_com_ou_sem_pessoas](plotbar001.png)
 
-
+ ### Vericando o engajamento de postagem agrupando por pessoas e campanhas.
+   ![Postagens_com_ou_sem_pessoas](plotbar002.png)
+   
+    ### Agrupando as campanhas Pessoas e Tags (tipos de postagens).
+   ![Postagens_com_ou_sem_pessoas](plotbar002.png)
 ## Conclusões
 
 Em uma análise inicial, percebemos que postagens que incluia pessoas engajam muito mais que aquelas que não possui ninguém
