@@ -33,5 +33,6 @@ Objetivos detalhados:
 # Conclusões
 
 ## - Percebemos que postagens que incluia pessoas nas fotos de produtos engajam muito mais que aquelas que não possui.
-## - Postagens em épocas de campanha também possuem um melhor engajamento e pode gerar um faturamento consideravel.
+## - Postagens em épocas de campanha também possuem um melhor engajamento e pode gerar um faturamento considerável.
+## - Produzir fotos de qualidades é um diverencial para manter o enjamento.
 
