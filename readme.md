@@ -22,7 +22,8 @@ Objetivos detalhados:
    ![Postagens_com_ou_sem_pessoas](plotbar001.png)
 
 
-Conclusões
+## Conclusões
+
 Em uma análise inicial, percebemos que postagens que incluia pessoas engajam muito mais que aquelas que não possui ninguém
 Postagens em épocas de campanha também possuem um melhor engajamento
 Nesse análise, percebemos que o carrossel não foi um diferencial para melhorar o engajamento da marca
