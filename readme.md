@@ -21,10 +21,10 @@ Objetivos detalhados:
  - Tratar colunas vazias que não possuio tag
  - Apresentar uma estrutura de projeto de Ciência de Dados, utilizando notebooks, cripts, relatórios e repositório no GitHub.
 
-   ### Analisando o engajamento de postagem de campanhas com produtos que possuen Pessoas ou Não. Entender quais campanhas geram mais curtidas e comentários.
+   ### Analisando o engajamento de postagens de campanhas com produtos que possuen Pessoas ou Não. Entender quais campanhas geram mais curtidas e comentários.
    ![Postagens_com_ou_sem_pessoas](plotbar001.png)
 
-   ### Analisando o engajamento de postagem, agrupando por Pessoas e Campanhas e entender o engajamento que gera mais curtidas e comentários por tipos de postagens.
+   ### Analisando o engajamento de postagens de campanhas, agrupando por Pessoas e Campanhas e entender o engajamento que gera mais curtidas e comentários por tipos de postagens.
    ![Postagens_com_ou_sem_pessoas](plotbar002.png)
    
    ### Analisando o engajamento de postagens, agrupando por Pessoas e Tags e entender o engajamento que gera mais curtidas e comentários por tipos de postagens.
