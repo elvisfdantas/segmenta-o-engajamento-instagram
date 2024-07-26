@@ -24,7 +24,7 @@ Objetivos detalhados:
    ### Vericando o engajamento de postagem agrupando por pessoas e campanhas.
    ![Postagens_com_ou_sem_pessoas](plotbar002.png)
    
-   ### Agrupando as campanhas Pessoas e Tags (tipos de postagens) para saber a a diferença de curtidas de comentários por tipos de postagens.
+   ### Agrupando as campanhas Pessoas e Tags (tipos de postagens) e entender o  engajamento como curtidas de comentários por tipos de postagens.
    ![Postagens_com_ou_sem_pessoas](plotbar003.png)
    
 ## Conclusões
