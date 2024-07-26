@@ -17,3 +17,6 @@ Objetivos detalhados:
  - Ignorar a colula de visualizaçoes e focar nas postagens com comentários, com mais e menos curtidas.
  - Tratar colunas vazias que não possuio tag
  - Apresentar uma estrutura de projeto de Ciência de Dados, utilizando notebooks, cripts, relatórios e repositório no GitHub.
+
+   ### Vericando postagem com pessoas S ou N em forma de gráficos
+   ![Postagens_com_ou_sem_pessoas](plotbar001.png)
