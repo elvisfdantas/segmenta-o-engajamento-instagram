@@ -2,7 +2,7 @@
 # Analisando engajamento do Instagram
 
 
-Projeto de segmentação de clientes de uma base de dados do instagram utilizado em curso de Ciência de Dados ministrado por mim para a <a href="https://www.hashtagtreinamentos.com/"> Hashtag Treinamentos </a>. Foi utilizando os seguintes pacotes da liguagem Python: Pandas e Mumpy.
+Projeto de segmentação de clientes de uma base de dados do instagram utilizado em curso de Ciência de Dados ministrado por mim para a <a href="https://www.hashtagtreinamentos.com/"> Hashtag Treinamentos </a>. Foi utilizando os seguintes pacotes da liguagem Python: Pandas e Numpy.
 
 <p align="center"> 
   <a href="https://www.linkedin.com/in/elvis-dantas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
